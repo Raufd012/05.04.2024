@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\05.04.2003\05.04.2003\obj\Debug\net6.0\05.04.2003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\05.04.2003\05.04.2003\obj\Debug\net6.0\05.04.2003.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\05.04.2003\05.04.2003\obj\Debug\net6.0\05.04.2003.AssemblyInfo.cs
+C:\Users\user\Desktop\05.04.2003\05.04.2003\obj\Debug\net6.0\05.04.2003.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\05.04.2003\05.04.2003\bin\Debug\net6.0\05.04.2003.exe
+C:\Users\user\Desktop\05.04.2003\05.04.2003\bin\Debug\net6.0\05.04.2003.deps.json
+C:\Users\user\Desktop\05.04.2003\05.04.2003\bin\Debug\net6.0\05.04.2003.runtimeconfig.json
+C:\Users\user\Desktop\05.04.2003\05.04.2003\bin\Debug\net6.0\05.04.2003.dll
+C:\Users\user\Desktop\05.04.2003\05.04.2003\bin\Debug\net6.0\05.04.2003.pdb
+C:\Users\user\Desktop\05.04.2003\05.04.2003\obj\Debug\net6.0\05.04.2003.dll
+C:\Users\user\Desktop\05.04.2003\05.04.2003\obj\Debug\net6.0\refint\05.04.2003.dll
+C:\Users\user\Desktop\05.04.2003\05.04.2003\obj\Debug\net6.0\05.04.2003.pdb
+C:\Users\user\Desktop\05.04.2003\05.04.2003\obj\Debug\net6.0\05.04.2003.genruntimeconfig.cache
+C:\Users\user\Desktop\05.04.2003\05.04.2003\obj\Debug\net6.0\ref\05.04.2003.dll
